@@ -9,6 +9,8 @@ Posting and sharing content
 
 News feed
 
+Add & Remove Friends
+
 Likes and comments
 
 
